@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **backend projects**
 
-- 🌱 I’m currently learning **Next.js**
-
 - 👨‍💻 All of my projects are available at [github.com/BezawitTezera](github.com/BezawitTezera)
 
 - 💬 Ask me about **Python, JavaScript, TypeScript**
