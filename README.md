@@ -15,7 +15,7 @@
 ### Featured Work
 - **Seattle Public Library Trends:** Data analysis & forecasting on a 41M+ record dataset via Socrata API.
 - **Memhir Learning Bridge(Harvard Grad School Collaboration | Private Repo):** Interactive Amharic learning platform with real-time TensorFlow.js object detection.
-- **Math Genius AI Buddy:** Full-stack AI study tool built with OpenAI API, Supabase, and Node.js.
+- **Math Genius AI Buddy:** Full-stack AI study tool built with OpenAI API, Supabase, and Node.js. demo link: https://youtu.be/EVY8cH9Y3QE
 
 ---
 
